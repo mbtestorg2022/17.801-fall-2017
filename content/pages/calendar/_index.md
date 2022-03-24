@@ -89,7 +89,7 @@ _In class: Student presentations, experimental social science and its discontent
 Read one of the following articles and be prepared to comment in class on your selection in light of the readings listed in Session 3 of the table in the [Readings]({{< baseurl >}}/pages/readings) section:
 
 *   Blair, Graeme, C. Christine Fair, Neil Malhotra, et al. “[Poverty and Support for Militant Politics: Evidence from Pakistan](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00604.x/abstract).” _American Journal of Political Science_ 57 (2013): 30–48.
-*   Habyarimana, James, Macartan Humphreys, Daniel N. Posner, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Why Does Ethnic Diversity Undermine Public Goods Provision?” (PDF)](http://www.columbia.edu/~mh2245/papers1/HHPW.pdf) _American Political Science Review_ 101, no. 4 (2007): 709–25.
+*   Habyarimana, James, Macartan Humphreys, Daniel N. Posner, et al. [“Why Does Ethnic Diversity Undermine Public Goods Provision?” (PDF)](http://www.columbia.edu/~mh2245/papers1/HHPW.pdf) _American Political Science Review_ 101, no. 4 (2007): 709–25.
 
 Your presentation should be 5 minutes long; it should summarize the article — its argument, its method, its empirical evidence — and offer your critique (which should be informed by the other readings). You will be strictly timed, and you should make use of visual aids; make sure to review the [Hints for Making Presentations]({{< baseurl >}}/pages/calendar/hints-for-making-presentations). Your slides should be submitted to the instructor by 4 PM the day before class.
 

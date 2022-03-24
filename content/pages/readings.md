@@ -78,13 +78,13 @@ Experimental Work and Its Challenges
 {{< tdopen >}}
 
 
-McDermott, Rose. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Experimental Methods in Political Science.” (PDF)](http://www.uky.edu/AS/PoliSci/Peffley/pdf/McDermott%202002%20EXPERIMENTAL%20METHODS%20IN%20POLITICAL%20SCIENCE.pdf) _Annual Review of Political Science_ 5, no. 1 (2002): 31–61.
+McDermott, Rose. [“Experimental Methods in Political Science.” (PDF)](http://www.uky.edu/AS/PoliSci/Peffley/pdf/McDermott%202002%20EXPERIMENTAL%20METHODS%20IN%20POLITICAL%20SCIENCE.pdf) _Annual Review of Political Science_ 5, no. 1 (2002): 31–61.
 
 Dunning, Thad. "Standard Natural Experiments." Chapter 2 in _Natural Experiments in the Social Sciences: A Design-Based Approach_. Cambridge University Press, 2012. ISBN: 9781107698000. 
 
-Falk, Armin, and James J. Heckman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Lab Experiments Are a Major Source of Knowledge in the Social Sciences.” (PDF)](http://ftp.iza.org/dp4540.pdf) Discussion Paper Series. IZA DP No. 4540_._ October 2009.
+Falk, Armin, and James J. Heckman. [“Lab Experiments Are a Major Source of Knowledge in the Social Sciences.” (PDF)](http://ftp.iza.org/dp4540.pdf) Discussion Paper Series. IZA DP No. 4540_._ October 2009.
 
-Barabas, Jason, and Jennifer Jerit. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Are Survey Experiments Externally Valid?” (PDF)](http://www.jjerit.com/images/BarabasJerit_APSR_2010.pdf) _American Political Science Review_ 104, no. 02 (2010): 226–42.
+Barabas, Jason, and Jennifer Jerit. [“Are Survey Experiments Externally Valid?” (PDF)](http://www.jjerit.com/images/BarabasJerit_APSR_2010.pdf) _American Political Science Review_ 104, no. 02 (2010): 226–42.
 
 
 {{< tdclose >}}
@@ -110,7 +110,7 @@ Observational Data and Its Challenges
 
 \[S\] Pp. 146.
 
-Fearon, James D., and David D. Laitin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Ethnicity, Insurgency, and Civil War.” (PDF - 8.4MB)](https://www.cambridge.org/core/journals/american-political-science-review/article/ethnicity-insurgency-and-civil-war/B1D5D0E7C782483C5D7E102A61AD6605) _American Political Science Review_ 97, no. 1 (2003): 75–90.
+Fearon, James D., and David D. Laitin. [“Ethnicity, Insurgency, and Civil War.” (PDF - 8.4MB)](https://www.cambridge.org/core/journals/american-political-science-review/article/ethnicity-insurgency-and-civil-war/B1D5D0E7C782483C5D7E102A61AD6605) _American Political Science Review_ 97, no. 1 (2003): 75–90.
 
 Brady, Henry E. “Data-Set Observations versus Causal-Process Observations: The 2000 U.S. Presidential Election.” Chapter 12 in _Rethinking Social Inquiry: Diverse Tools, Shared Standards_. 2nd edition. Edited by Henry E. Brady and David Collier. Rowman and Littlefield, 2010. ISBN: 9781442203440.
 
@@ -128,9 +128,9 @@ Cases Selection and Its Challenges
 {{< tdopen >}}
 
 
-Geddes, Barbara. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["How the Cases You Choose Affect the Answers You Get: Selection in Comparative Politics." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.315.5213&rep=rep1&type=pdf) _Political Analysis_ 2 (1990): 131–50.
+Geddes, Barbara. ["How the Cases You Choose Affect the Answers You Get: Selection in Comparative Politics." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.315.5213&rep=rep1&type=pdf) _Political Analysis_ 2 (1990): 131–50.
 
-Pape, Robert A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Strategic Logic of Suicide Terrorism.” (PDF - 1.7MB)](http://www.columbia.edu/itc/journalism/stille/Politics%20Fall%202007/readings%20weeks%206-7/Strategic%20Logic%20of%20Suicide%20Missions.pdf) _American Political Science Review_ 97, no. 3 (2003): 343–61.
+Pape, Robert A. [“The Strategic Logic of Suicide Terrorism.” (PDF - 1.7MB)](http://www.columbia.edu/itc/journalism/stille/Politics%20Fall%202007/readings%20weeks%206-7/Strategic%20Logic%20of%20Suicide%20Missions.pdf) _American Political Science Review_ 97, no. 3 (2003): 343–61.
 
 Ashworth, Scott, Joshua D. Clinton, Adam Meirowitz, et al. “[Design, Inference, and the Strategic Logic of Suicide Terrorism](https://www.jstor.org/stable/27644515?seq=1#page_scan_tab_contents).” _American Political Science Review_ 102, no. 2 (2008): 269–73.
 
@@ -204,7 +204,7 @@ Conducting an Experiment (or Generating Quantitative Observational Data), Part I
 {{< tdopen >}}
 
 
-Milgram, Stanley. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Some Conditions of Obedience and Disobedience to Authority.” (PDF - 2.6MB)](http://psyc604.stasson.org/Milgram2.pdf) _Human Relations_ 18 (1965): 57–76. (skim)
+Milgram, Stanley. [“Some Conditions of Obedience and Disobedience to Authority.” (PDF - 2.6MB)](http://psyc604.stasson.org/Milgram2.pdf) _Human Relations_ 18 (1965): 57–76. (skim)
 
 Zimbardo, Phillip G. “[The Mind is a Formidable Jailer: A Pirandellian Prison](https://www.nytimes.com/1973/04/08/archives/a-pirandellian-prison-the-mind-is-a-formidable-jailer.html),” _New York Times Magazine_, April 8, 1973.
 
@@ -260,7 +260,7 @@ Conducting Field Research, Part II: Interviews
 {{< tdopen >}}
 
 
-Leech, Beth L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Asking Questions: Techniques for Semistructured Interviews.” (PDF)](https://dornsife.usc.edu/assets/sites/298/docs/interviewing_techniques_asking_questions.pdf) _PS: Political Science and Politics_ (2002): 665–68.
+Leech, Beth L. [“Asking Questions: Techniques for Semistructured Interviews.” (PDF)](https://dornsife.usc.edu/assets/sites/298/docs/interviewing_techniques_asking_questions.pdf) _PS: Political Science and Politics_ (2002): 665–68.
 
 Lawson, Chappell. “[Interview Guide (PDF)]({{< baseurl >}}/resources/mit17_801f17_intervguide).” 
 

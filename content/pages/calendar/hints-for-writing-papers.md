@@ -37,6 +37,6 @@ Stylistic hints
 
 Seigenthaler, John. "[A False Wikipedia 'Biography'](https://usatoday30.usatoday.com/news/opinion/editorials/2005-11-29-wikipedia-edit_x.htm)," _USA Today_, November 29, 2005.
 
-"![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fatally Flawed: Refuting the Recent Study on Encyclopedic Accuracy by the Journal _Nature_." (PDF)](https://corporate.britannica.com/britannica_nature_response.pdf) Encyclopædia Britannica, Inc., March 2006.
+"[Fatally Flawed: Refuting the Recent Study on Encyclopedic Accuracy by the Journal _Nature_." (PDF)](https://corporate.britannica.com/britannica_nature_response.pdf) Encyclopædia Britannica, Inc., March 2006.
 
 2 Strunk Jr., William, and E.B. White. _The Elements of Style_. 4th edition. Pearson, 1999. ISBN: 9780205309023.

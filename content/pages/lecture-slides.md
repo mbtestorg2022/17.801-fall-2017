@@ -26,7 +26,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Scientific Method as Applied to Political Outcomes (PDF - 2.6MB)]({{< baseurl >}}/resources/mit17_801f17_week1)
+[The Scientific Method as Applied to Political Outcomes (PDF - 2.6MB)]({{< baseurl >}}/resources/mit17_801f17_week1)
 
 
 {{< tdclose >}}
@@ -39,7 +39,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Theory and Method in Political Science (PDF - 1.7MB)]({{< baseurl >}}/resources/mit17_801f17_week2)
+[Theory and Method in Political Science (PDF - 1.7MB)]({{< baseurl >}}/resources/mit17_801f17_week2)
 
 
 {{< tdclose >}}
@@ -52,7 +52,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Observational Data and its Challenges (PDF)]({{< baseurl >}}/resources/mit17_801f17_week4)
+[Observational Data and its Challenges (PDF)]({{< baseurl >}}/resources/mit17_801f17_week4)
 
 
 {{< tdclose >}}
@@ -67,11 +67,11 @@ TOPICS
 
 Cases Selection and its Challenges
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Research Method: Small N (PDF - 1.1MB)]({{< baseurl >}}/resources/mit17_801f17_week5_3)
+[Research Method: Small N (PDF - 1.1MB)]({{< baseurl >}}/resources/mit17_801f17_week5_3)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Research Design Checklist (PDF)]({{< baseurl >}}/resources/mit17_801f17_week5_2)
+[Research Design Checklist (PDF)]({{< baseurl >}}/resources/mit17_801f17_week5_2)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Choosing a Topic (PDF)]({{< baseurl >}}/resources/mit17_801f17_week5_1)
+[Choosing a Topic (PDF)]({{< baseurl >}}/resources/mit17_801f17_week5_1)
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ Evaluating a (Small) Body of Work: The Effects of Candidate Appearance
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Conducting Field Research (PDF)]({{< baseurl >}}/resources/mit17_801f17_week10)
+[Conducting Field Research (PDF)]({{< baseurl >}}/resources/mit17_801f17_week10)
 
 
 {{< tdclose >}}
