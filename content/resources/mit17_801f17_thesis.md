@@ -4,6 +4,7 @@ description: 'This resource contains information regarding political science sco
   and methods lecture slides: Theses I wish someone would write.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-801-political-science-scope-and-methods-fall-2017/becc0e43f256a2012f33acb839d531aa_MIT17_801F17_Thesis.pdf
 file_type: application/pdf
+parent_uid: fbc2dd0b-3b67-a963-6375-a06866265ac9
 resourcetype: Document
 title: '17.801F17 Political Science Scope and Methods Readings: Theses I Wish Someone
   Would Write'
